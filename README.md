@@ -44,6 +44,6 @@ A [video](https://www.youtube.com/watch?v=4ruEdpTAvp0&feature=youtu.be) created 
 ## Further considerations
 In the future, testing the modules in larger scale would be ideal. Through these tests, threshold to determine the instance a fire start will help aid in early detection. A GPS system would also be integrated to get accurate location readings if a fire occurs. Finally, moving from detection to prediction of forest fires would be the next step, whether predicting when a fire may start or where a fire is going while in prograss.
 ## Resources
--[Smoke Sensor](https://create.arduino.cc/projecthub/karimmufte/arduino-and-mq2-gas-sensor-57f98c)
--[Barometer Sensor](https://learn.sparkfun.com/tutorials/mpl3115a2-pressure-sensor-hookup-guide/all)
--[Humidity Senosr](https://www.hackster.io/jrance/arduino-nrf24l01-wireless-weather-station-f6c63f)
+- [Smoke Sensor](https://create.arduino.cc/projecthub/karimmufte/arduino-and-mq2-gas-sensor-57f98c)
+- [Barometer Sensor](https://learn.sparkfun.com/tutorials/mpl3115a2-pressure-sensor-hookup-guide/all)
+- [Humidity Senosr](https://www.hackster.io/jrance/arduino-nrf24l01-wireless-weather-station-f6c63f)
