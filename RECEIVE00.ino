@@ -86,10 +86,10 @@ float dht22_temp; //Stores temperature value
 MPL3115A2 baro;
 
 //NRF24L01 Set ups
-//Receiver 
+//Receiver when node 10 fails
 RF24 myRadio1 (2,4);
 const byte addresses[6] = "00010";
-//Receiver when node 10 fails
+//Receiver 
 RF24 myRadio(7,8);
 const byte address[6] = "00001";
 
@@ -100,8 +100,6 @@ struct barometer
   float tempC = 78.5;
   float humidity = 39;
   float smoke=0;
-  float CO= 9;
-  float LPG=2;
 };
 
 typedef struct barometer Barometer;
